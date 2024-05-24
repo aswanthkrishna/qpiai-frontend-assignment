@@ -65,10 +65,10 @@ The submission will be evaluated on a number of criteria including:
 
 1. Create a github repository.
 
-2. Write a solution to the challenge described below.
+2. Write a solution to the challenge described above.
 
 3. Once you are finished, send your repo to ashwanth.krishnan@qpiai.tech. 
 
-4. You can use any stack of your choice, ideally Next.js, Typescript, and prisma.
+4. You can use any stack of your choice, ideally Next.js, Typescript, tailwind and prisma.
 
 5. Host your working solution on vercel.
