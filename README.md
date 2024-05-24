@@ -67,7 +67,7 @@ The submission will be evaluated on a number of criteria including:
 
 2. Write a solution to the challenge described below.
 
-3. Once you are finished, compress your solution and send it by email to engineering-interviewers@encord.com. Include instructions for setting up and running your solution
+3. Once you are finished, send your repo to ashwanth.krishnan@qpiai.tech. 
 
 4. You can use any stack of your choice, ideally Next.js, Typescript, and prisma.
 
